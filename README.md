@@ -19,4 +19,7 @@
 
 ## 待分分类
 [1] [MEMORY NETWORKS](https://arxiv.org/pdf/1410.3916.pdf)  
-[2] [opening the black box of deep neural network via information](https://arxiv.org/pdf/1703.00810.pdf)
+[2] [opening the black box of deep neural network via information](https://arxiv.org/pdf/1703.00810.pdf)  
+
+## 项目
+[1] [Automatic CAD-RADS Scoring using Deep Learning](https://arxiv.org/pdf/2010.01963.pdf)  
