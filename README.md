@@ -12,6 +12,7 @@
 [1] Focal Loss: [Focal Loss for Dense Object Detection](https://arxiv.org/pdf/1708.02002.pdf)  
 [2] 深入比较了主流loss [Deep Semantic Segmentation of Natural and Medical Images:A Review](https://arxiv.org/pdf/1910.07655.pdf)  
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0308/224906_756b0ba7_7672636.png "屏幕截图.png")  
+<center>题注</center>  
 [3] Combo loss [Combo Loss: Handling Input and Output Imbalance in Multi-Organ Segmentation](https://arxiv.org/pdf/1805.02798.pdf)
 
 ## Idea
