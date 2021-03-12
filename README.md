@@ -23,3 +23,6 @@
 
 ## 项目
 [1] [Automatic CAD-RADS Scoring using Deep Learning](https://arxiv.org/pdf/2010.01963.pdf)  
+
+# book  
+[1].周少华 西门子健康科学家 [Medical Image Recognition, Segmentation and Parsing Machine Learning and Multiple Object Approaches](https://www.sciencedirect.com/book/9780128025819/medical-image-recognition-segmentation-and-parsing)
